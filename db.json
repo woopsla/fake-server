@@ -1,10 +1,10 @@
 {
   "evals": [
     {
-      "id": "5555",
+      "id": "101",
       "presenter": "john",
       "topic": "Bridge Pattern",
-      "evaluator": "peter",
+      "evaluator_id": "66",
       "score": 4,
       "score1": 3,
       "score2": 5,
